@@ -11,11 +11,18 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="../template-depan/js/jquery.js"></script>
+    <script src="template-depan/js/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="../template-depan/js/bootstrap.min.js"></script>
+    <script src="template-depan/js/bootstrap.min.js"></script>
 
 </body>
 
 </html>
+</div>
+                    <!-- /.col-lg-12 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container-fluid -->
+        </div>

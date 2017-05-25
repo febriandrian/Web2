@@ -1,4 +1,16 @@
+  <!-- Pager -->
+                <ul class="pager">
+                    <li class="previous">
+                        <a href="#">&larr; Older</a>
+                    </li>
+                    <li class="next">
+                        <a href="#">Newer &rarr;</a>
+                    </li>
+                </ul>
+
+            </div>
  <!-- Blog Sidebar Widgets Column -->
+
             <div class="col-md-4">
 
                 <!-- Blog Search Well -->
@@ -57,5 +69,13 @@
 
         </div>
         <!-- /.row -->
+</div>
+         <div id="page-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
 
-        <hr>
+                    <div class="row">
+
+            <!-- Blog Entries Column -->
+            <div class="col-md-8">
