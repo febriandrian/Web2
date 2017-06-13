@@ -1,4 +1,4 @@
-<?php 
+ <?php 
 
 include 'view/BeritaUI.php';
 
